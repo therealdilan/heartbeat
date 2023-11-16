@@ -2,13 +2,13 @@
 
     let message = ''
 
-    export let color
+    export let text
 
 </script>
 
 <button on:click={() => message+= 'hello!'}
-    style="background: {color}; padding: 1rem;">
-    Say hello!
+    class="bg-slate-700 p-4">
+    {text}
 </button>
 
 {message}

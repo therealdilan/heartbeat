@@ -1,3 +1,3 @@
 # Rocketship 
 
-markdown app using astro and svelte i guess
+blazingly fast substance, compound and nutrient search
